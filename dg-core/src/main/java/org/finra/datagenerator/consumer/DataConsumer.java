@@ -37,6 +37,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
  * Processes search results produced by a SearchDistributor.
  * <p/>
  * Created by RobbinBr on 5/18/2014.
+ * Forged by MMinaie 7/14/2015
  */
 public class DataConsumer {
 
